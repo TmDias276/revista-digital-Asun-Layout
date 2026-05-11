@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+        stroke-width: 0px;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="533.9" cy="817" fx="533.9" fy="817" r="400" gradientTransform="translate(-413 -140) rotate(90.4) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#fff"/>
+      <stop offset=".6" stop-color="#fafafa"/>
+      <stop offset=".9" stop-color="#eaebec"/>
+      <stop offset="1" stop-color="#e5e6e7"/>
+    </radialGradient>
+  </defs>
+  <g id="Background_2" data-name="Background 2">
+    <polygon class="cls-1" points="-3 797 3 -3 803 3 797 803 -3 797"/>
+  </g>
+</svg>
